@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "WSProducto7777.Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WSProducto7777.Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WSProducto7777.Entidades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WSProducto7777.Entidades/1.0.0": {
+      "type": "project",
+      "path": "../WSProducto7777.Entidades/WSProducto7777.Entidades.csproj",
+      "msbuildProject": "../WSProducto7777.Entidades/WSProducto7777.Entidades.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "WSProducto7777.Entidades >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ByronDaniel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\ByronDaniel\\Documents\\BD\\EJERCICIO BANCO 1\\WSProductos7777\\WSProducto7777.Dominio\\WSProducto7777.Dominio.csproj",
+      "projectName": "WSProducto7777.Dominio",
+      "projectPath": "C:\\Users\\ByronDaniel\\Documents\\BD\\EJERCICIO BANCO 1\\WSProductos7777\\WSProducto7777.Dominio\\WSProducto7777.Dominio.csproj",
+      "packagesPath": "C:\\Users\\ByronDaniel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ByronDaniel\\Documents\\BD\\EJERCICIO BANCO 1\\WSProductos7777\\WSProducto7777.Dominio\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ByronDaniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\ByronDaniel\\Documents\\BD\\EJERCICIO BANCO 1\\WSProductos7777\\WSProducto7777.Entidades\\WSProducto7777.Entidades.csproj": {
+              "projectPath": "C:\\Users\\ByronDaniel\\Documents\\BD\\EJERCICIO BANCO 1\\WSProductos7777\\WSProducto7777.Entidades\\WSProducto7777.Entidades.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

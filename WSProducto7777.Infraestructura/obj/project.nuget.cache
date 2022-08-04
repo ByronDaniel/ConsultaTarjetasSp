@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dL/8iqIKaqjXON2kCmkSZHtw/UUrUz9xz/uI6xNF/TUxcE8C84wUg8oLHaD6tUehQprs1vzn3brWVFsj/2nkpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ByronDaniel\\Documents\\BD\\EJERCICIO BANCO 1\\WSProductos7777\\WSProducto7777.Infraestructura\\WSProducto7777.Infraestructura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ByronDaniel\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512",
+    "C:\\Users\\ByronDaniel\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.1.0\\fluentvalidation.dependencyinjectionextensions.11.1.0.nupkg.sha512",
+    "C:\\Users\\ByronDaniel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

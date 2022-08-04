@@ -1,0 +1,15 @@
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Dominio\bin\Debug\net6.0\WSProducto7777.Dominio.deps.json
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Dominio\bin\Debug\net6.0\WSProducto7777.Dominio.dll
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Dominio\bin\Debug\net6.0\WSProducto7777.Dominio.pdb
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Dominio\bin\Debug\net6.0\WSProducto7777.Entidades.dll
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Dominio\bin\Debug\net6.0\WSProducto7777.Entidades.pdb
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Dominio\obj\Debug\net6.0\WSProducto7777.Dominio.csproj.AssemblyReference.cache
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Dominio\obj\Debug\net6.0\WSProducto7777.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Dominio\obj\Debug\net6.0\WSProducto7777.Dominio.AssemblyInfoInputs.cache
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Dominio\obj\Debug\net6.0\WSProducto7777.Dominio.AssemblyInfo.cs
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Dominio\obj\Debug\net6.0\WSProducto7777.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Dominio\obj\Debug\net6.0\WSProducto7777.Dominio.csproj.CopyComplete
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Dominio\obj\Debug\net6.0\WSProducto7777.Dominio.dll
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Dominio\obj\Debug\net6.0\refint\WSProducto7777.Dominio.dll
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Dominio\obj\Debug\net6.0\WSProducto7777.Dominio.pdb
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Dominio\obj\Debug\net6.0\ref\WSProducto7777.Dominio.dll

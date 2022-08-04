@@ -1,0 +1,17 @@
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\bin\Debug\net6.0\WSProducto7777.Infraestructura.deps.json
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\bin\Debug\net6.0\WSProducto7777.Infraestructura.dll
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\bin\Debug\net6.0\WSProducto7777.Infraestructura.pdb
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\bin\Debug\net6.0\WSProducto7777.Dominio.dll
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\bin\Debug\net6.0\WSProducto7777.Entidades.dll
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\bin\Debug\net6.0\WSProducto7777.Dominio.pdb
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\bin\Debug\net6.0\WSProducto7777.Entidades.pdb
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\obj\Debug\net6.0\WSProducto7777.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\obj\Debug\net6.0\WSProducto7777.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\obj\Debug\net6.0\WSProducto7777.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\obj\Debug\net6.0\WSProducto7777.Infraestructura.AssemblyInfo.cs
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\obj\Debug\net6.0\WSProducto7777.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\obj\Debug\net6.0\WSProducto7777.Infraestructura.csproj.CopyComplete
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\obj\Debug\net6.0\WSProducto7777.Infraestructura.dll
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\obj\Debug\net6.0\refint\WSProducto7777.Infraestructura.dll
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\obj\Debug\net6.0\WSProducto7777.Infraestructura.pdb
+C:\Users\ByronDaniel\Documents\BD\EJERCICIO BANCO 1\WSProductos7777\WSProducto7777.Infraestructura\obj\Debug\net6.0\ref\WSProducto7777.Infraestructura.dll
